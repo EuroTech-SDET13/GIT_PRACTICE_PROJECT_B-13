@@ -5,5 +5,6 @@ public class Dilek3 {
         System.out.println("Test1");
         System.out.println("Test1");
         System.out.println("Test1");
+        System.out.println("bugün  tektar yapildi");
     }
 }
